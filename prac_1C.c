@@ -8,7 +8,6 @@ struct Student {
     int rollNo;
     char name[50];
     int age;
-
     float avgMarks;
 };
 int main() {
@@ -47,4 +46,5 @@ int main() {
     }
     return 0;
 }
+
 
